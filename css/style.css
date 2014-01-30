@@ -21,3 +21,6 @@ aside {
 	width: 13.5em;
 	float: left;
 }
+article p:last-child{
+	font-weight: bold;
+}
