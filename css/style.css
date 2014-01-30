@@ -1,0 +1,23 @@
+body {
+	background-color: #139BCC;
+	color: #333A50;
+}
+article {
+	width: 30em;
+	margin: 1em;
+	float: left;
+}
+article p:nth-child(2){
+	color: black;
+}
+article p {
+	font-size: 1.5em;
+}
+aside p{
+	font-size: 1.1em;
+
+}
+aside {
+	width: 13.5em;
+	float: left;
+}
