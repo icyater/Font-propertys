@@ -6,6 +6,7 @@ article {
 	width: 30em;
 	margin: 1em;
 	float: left;
+	font-family: serif;
 }
 article p:nth-child(2){
 	color: black;
@@ -15,6 +16,8 @@ article p {
 }
 aside p{
 	font-size: 1.1em;
+	font-style: italic;
+	font-family: serif;
 
 }
 aside {
@@ -23,4 +26,7 @@ aside {
 }
 article p:last-child{
 	font-weight: bold;
+}
+h1 {
+	font-family: sans-serif;
 }
