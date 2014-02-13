@@ -11,9 +11,9 @@ article {
 article p:nth-child(2){
 	color: black;
 }
-article p {
+/*article p {
 	font-size: 1.5em;
-}
+}*/
 aside p{
 	font-size: 1.1em;
 	font-style: italic;
@@ -32,8 +32,23 @@ h1 {
 	font-size: 3em;
 	color: #fff;
 }
-article:nth-child (2){
-	font-size:
+article p:nth-child(2){
+	font-size: 1.4em;
+}
+article p:nth-child(3){
+	font-size: 1.3em;
+}
+article p:nth-child(4){
+	font-size: 1.2em;
+}
+article p:nth-child(5){
+	font-size: 1.1em;
+}
+article p:nth-child(6){
+	font-size: 1em;
+}
+article p:nth-child(7){
+	font-size: 0.9em;
 }
 footer{
 	font-size: 0.6em;
